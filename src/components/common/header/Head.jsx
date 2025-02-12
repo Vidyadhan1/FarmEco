@@ -1,0 +1,20 @@
+import React from "react"
+
+const Head = () => {
+  return (
+    <>
+      <section className='head'>
+        <div className='container'>
+          <div className='logo'>
+            <h1>FarmEco</h1>
+            <span>Transforming Waste into Wealth</span>
+          </div>
+
+        
+        </div>
+      </section>
+    </>
+  )
+}
+
+export default Head
